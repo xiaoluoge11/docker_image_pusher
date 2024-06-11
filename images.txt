@@ -1,5 +1,6 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
+ghcr.io/labring/fastgpt-sandbox:v4.8.3
+ghcr.io/labring/fastgpt:v4.8.3
+mysql:8.0.36
+ghcr.io/songquanpeng/one-api:latest
