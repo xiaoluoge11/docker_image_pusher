@@ -1,1 +1,1 @@
-sulinggg/openwrt:x86_64
+quay.io/ansible/awx-operator:2.17.0
