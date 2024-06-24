@@ -1,1 +1,1 @@
-sulinggg/openwrt:latest
+semaphoreui/semaphore:latest
