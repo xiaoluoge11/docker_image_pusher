@@ -1,2 +1,1 @@
-semaphoreui/semaphore:latest
 bitnami/java
