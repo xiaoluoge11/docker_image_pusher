@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+mysql:5.7
