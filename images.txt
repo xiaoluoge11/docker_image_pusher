@@ -1,2 +1,1 @@
-bitnami/java
-nginx
+zlmediakit/zlmediakit:master
