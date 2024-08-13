@@ -1,1 +1,1 @@
-csiplugin/snapshot-controller:v4.0.0
+kubesphere/ks-controller-manager:v3.4.1
