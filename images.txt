@@ -1,1 +1,1 @@
-kubesphere/pause:3.5
+kubesphere/kube-proxy:v1.22.12
