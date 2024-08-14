@@ -1,1 +1,1 @@
-kong/kubernetes-ingress-controller:3.2
+googlecontainer/echoserver:1.10
