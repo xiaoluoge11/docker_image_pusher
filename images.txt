@@ -1,2 +1,1 @@
-docker/whalesay
-
+docker.io/docker/whalesay:latest
