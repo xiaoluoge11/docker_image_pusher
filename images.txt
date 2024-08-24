@@ -1,1 +1,1 @@
-docker/whalesay:latest
+docker.io/bitnami/postgresql:16.4.0-debian-12-r2
