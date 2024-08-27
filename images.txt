@@ -1,1 +1,1 @@
-ghcr.io/tsitamani/bff:latest
+docker.io/library/python:3.10.9-slim-bullseye
