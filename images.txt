@@ -1,3 +1,1 @@
-bitnami/elasticsearch:8.11.3
-docker.io/bitnami/postgresql:latest
-redis
+rwynn/monstache:rel6
