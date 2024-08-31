@@ -1,1 +1,1 @@
-quay.io/keycloak/keycloak:25.0.4
+quay.io/keycloak/keycloak:10.0.0
