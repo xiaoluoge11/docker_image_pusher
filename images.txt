@@ -1,1 +1,1 @@
-jboss/keycloak:14.0.0
+jboss/keycloak:12.0.4
