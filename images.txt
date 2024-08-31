@@ -1,1 +1,1 @@
-jboss/keycloak:12.0.4
+quay.io/keycloak/keycloak:latest
