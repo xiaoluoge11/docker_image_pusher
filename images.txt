@@ -1,1 +1,1 @@
-quay.io/keycloak/keycloak:10.0.0
+jboss/keycloak
