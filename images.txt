@@ -1,1 +1,1 @@
-rwynn/monstache:rel6
+jboss/keycloak:14.0.0
