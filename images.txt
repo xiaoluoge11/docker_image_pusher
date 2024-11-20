@@ -1,5 +1,2 @@
-zabbix/zabbix-java-gateway:6.0-centos-latest
-zabbix/zabbix-snmptraps:6.0-centos-latest
-zabbix/zabbix-server-mysql:6.0-centos-latest
-zabbix/zabbix-web-nginx-mysql:6.0-centos-latest
-zabbix/zabbix-agent:centos-6.0-latest
+labring/kubernetes:v1.24.3
+labring/kube-ovn:v1.10.5
