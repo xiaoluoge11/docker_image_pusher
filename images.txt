@@ -1,2 +1,1 @@
-labring/kubernetes:v1.24.3
-labring/kube-ovn:v1.10.5
+kubeovn/kube-ovn:v1.10.10
