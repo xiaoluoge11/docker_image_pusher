@@ -1,1 +1,1 @@
-kubeovn/kube-ovn:v1.10.10
+mysql:8.0
