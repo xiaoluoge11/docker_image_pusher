@@ -1,1 +1,1 @@
-postgis/postgis:10-3.3-alpine
+postgres:10-alpine
