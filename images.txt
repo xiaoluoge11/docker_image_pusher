@@ -1,1 +1,1 @@
-mysql:8.0
+postgres:10
