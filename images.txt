@@ -1,1 +1,1 @@
-walkingfunny/argusdbm
+neosun/deepseek-ocr:latest
