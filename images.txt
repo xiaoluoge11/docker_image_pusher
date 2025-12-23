@@ -1,1 +1,1 @@
-neosun/deepseek-ocr:latest
+neosun/deepseek-ocr:lates
